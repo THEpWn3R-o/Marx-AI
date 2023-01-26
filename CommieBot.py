@@ -1,3 +1,5 @@
+# Name Ideas, The Red Mentor?
+
 import openai
 import os
 import time
