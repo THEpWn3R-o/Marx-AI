@@ -1,4 +1,5 @@
 api-key.txt
+.DS-Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
